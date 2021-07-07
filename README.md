@@ -1,2 +1,2 @@
-# codinghtml.github.io
+# codinghtml
 the website for web design
